@@ -1,4 +1,4 @@
-// XLT9K - eXtreme Light Timer 9K
+// XLT9K - eXtreme Light Timer 9000
 // For more information see https://github.com/oelgern/xlt9k
 //
 // Note: You'll need Adafruit's RTClib: https://github.com/adafruit/RTClib
